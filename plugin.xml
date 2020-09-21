@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+    xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    xmlns:android="http://schemas.android.com/apk/res/android" id="cordova-admob-ump-tomitank" version="1.0.0">
+    <name>AdMob UMP SDK</name>
+    <description>Google AdMob UMP SDK for Cordova</description>
+    <author>tomitank</author>
+    <keywords>admob,google,ad,ump,founding,choice</keywords>
+    <repo>https://github.com/tomitank/cordova-admob-ump-tomitank</repo>
+    <issue>https://github.com/tomitank/cordova-admob-ump-tomitank/issues</issue>
+    <engines>
+        <engine name="cordova" version=">=9.0.0" />
+        <engine name="cordova-ios" version=">=5.0.0"/>
+        <engine name="cordova-android" version=">=8.0.0"/>
+    </engines>
+    <platform name="android">
+    </platform>
+    <platform name="ios">
+    </platform>
+</plugin>
